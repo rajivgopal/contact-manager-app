@@ -25,9 +25,6 @@ const ContactInfoReducer = (state, action) => {
 class Provider extends Component {
   state = {
     contacts: [
-      // { id: 1, name: "Rajiv", email: "rajiv@gmail.com", phone: "1111 1111" },
-      // { id: 2, name: "Harshu", email: "harshu@gmail.com", phone: "2222 2222" },
-      // { id: 3, name: "Chottu", email: "chottu@gmail.com", phone: "3333 2222" }
     ],
     dispatch: action =>
       this.setState(prevState => ContactInfoReducer(prevState, action))
