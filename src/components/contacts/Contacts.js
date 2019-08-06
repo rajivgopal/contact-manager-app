@@ -4,11 +4,7 @@ import Contact from "./Contact";
 import { Consumer } from "../../context";
 
 const Contacts = () => {
-  // const [contacts, setContacts] = useState([
-  //   { id: 1, name: "Rajiv", email: "rajiv@gmail.com", phone: "1111 1111" },
-  //   { id: 2, name: "Harshu", email: "harshu@gmail.com", phone: "2222 2222" },
-  //   { id: 3, name: "Chottu", email: "chottu@gmail.com", phone: "3333 2222" }
-  // ]);
+  
 
   // const deleteInfo = (event, id) => {
   //   const tempContacts = contacts.filter(contact => contact.id !== id);
