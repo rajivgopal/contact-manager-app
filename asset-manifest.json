@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/contact-manager-app/static/css/main.5facb584.chunk.css",
+    "main.js": "/contact-manager-app/static/js/main.ea17c2dd.chunk.js",
+    "main.js.map": "/contact-manager-app/static/js/main.ea17c2dd.chunk.js.map",
+    "runtime~main.js": "/contact-manager-app/static/js/runtime~main.74254436.js",
+    "runtime~main.js.map": "/contact-manager-app/static/js/runtime~main.74254436.js.map",
+    "static/css/2.266e55a5.chunk.css": "/contact-manager-app/static/css/2.266e55a5.chunk.css",
+    "static/js/2.c38ab4b0.chunk.js": "/contact-manager-app/static/js/2.c38ab4b0.chunk.js",
+    "static/js/2.c38ab4b0.chunk.js.map": "/contact-manager-app/static/js/2.c38ab4b0.chunk.js.map",
+    "index.html": "/contact-manager-app/index.html",
+    "precache-manifest.90ee4ce9db601383b8598648edd7b398.js": "/contact-manager-app/precache-manifest.90ee4ce9db601383b8598648edd7b398.js",
+    "service-worker.js": "/contact-manager-app/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/contact-manager-app/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.5facb584.chunk.css.map": "/contact-manager-app/static/css/main.5facb584.chunk.css.map"
+  }
+}
