@@ -3,7 +3,6 @@ import { Consumer } from "../../context";
 import TextBox from "../utils/TextBox";
 // import uuid from "uuid";
 import axios from "axios";
-import { async } from "q";
 
 const AddContact = props => {
   const [name, setName] = useState("");

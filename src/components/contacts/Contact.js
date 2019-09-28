@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import PropTypes from "prop-types";
 import { Consumer } from "../../context";
 import axios from "axios";
-import { async } from "q";
 
 const Contact = props => {
   const { id, name, email, phone } = props.contact;
